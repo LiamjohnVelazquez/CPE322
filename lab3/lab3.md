@@ -1,35 +1,35 @@
-#Lab 3  
+# Lab 3  
 
 
-##julian  
+## julian  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/julian.png)
 
-##date_example  
+## date_example  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/date_example.png)
 
-##datetime_example  
+## datetime_example  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/python3%20datetime_example.py.png)
 
-##time_example  
+## time_example  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/time_example.png)
 
-##sun  
+## sun  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/sun.png)
 
-##moon
+## moon
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/moon.png)
 
-##coordinates  
+## coordinates  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/coordinates.png)
 
-##address  
+## address  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/address.png)
 
-##cpu  
+## cpu  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/cpu.png)
 
-##battery  
+## battery  
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/cpu.png)
 
-##document_stats
+## document_stats
 ![](https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab3/pics/document.png)
