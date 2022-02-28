@@ -2,4 +2,4 @@
 
 
 ## hostname
-(lab1/pics/hostname.png)
+(https://github.com/LiamjohnVelazquez/CPE322/blob/main/lab1/pics/cat%20file.txt.png)
